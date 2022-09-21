@@ -1,5 +1,4 @@
 let soon = document.querySelectorAll(".soon li");
-// let mals = Array.from(document.getElementsByClassName("mal"));
 let im = document.querySelectorAll(".img-fluid.all");
 
 
